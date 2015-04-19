@@ -1,4 +1,4 @@
-# Database management system project written at Java MIPT course (fall 2014).
+# Database management system project written at Java MIPT course (fall 2014)
 ## Features
 * It provides API and console program for working with your databases.
 * It is tested.
